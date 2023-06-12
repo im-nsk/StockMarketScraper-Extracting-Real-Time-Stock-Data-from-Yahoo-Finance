@@ -1,1 +1,26 @@
-
+stocks_Symbol,stocks_name,stocks_price,stocks_price_change,stocks_percent_change,stocks_volume,stocks_market_cap
+BRZE,"Braze, Inc. (BRZE)",39.43,+5.49,(+16.18%),"5,546,663",3.848B
+UNPSF,Uni-President China Holdings Ltd (UNPSF),0.887,+0.1183,(+15.39%),"283,028",5.072B
+BJINF,Beijing Enterprises Holdings Limited (BJINF),4.03,+0.4500,(+12.57%),"31,364",5.579B
+CIG-C,Companhia Energética de Minas Gerais (CIG-C),3.9,+0.4000,(+11.43%),"63,201",8.582B
+JOBY,"Joby Aviation, Inc. (JOBY)",6.96,+0.70,(+11.18%),"9,420,728",4.696B
+AUR,"Aurora Innovation, Inc. (AUR)",2.29,+0.2300,(+11.17%),"5,548,989",2.703B
+HDALF,Haidilao International Holding Ltd. (HDALF),2.23,+0.2200,(+10.95%),"16,926",12.43B
+PHJMF,PT Hanjaya Mandala Sampoerna Tbk (PHJMF),0.07,+0.0063,(+9.80%),"21,995",8.142B
+TNET,"TriNet Group, Inc. (TNET)",106.85,+9.53,(+9.79%),"2,592,305",6.348B
+GRBMF,"Grupo Bimbo, S.A.B. de C.V. (GRBMF)",5.5,+0.49,(+9.78%),"24,701",24.384B
+IMGN,"ImmunoGen, Inc. (IMGN)",17.16,+1.41,(+8.95%),"11,926,769",4.392B
+ALBKY,Alpha Services and Holdings S.A. (ALBKY),0.36991,+0.0299,(+8.80%),"78,010",4.044B
+CKHUF,CK Hutchison Holdings Limited (CKHUF),6.32,+0.48,(+8.15%),"34,687",24.206B
+FNMAS,Federal National Mortgage Association (FNMAS),1.62,+0.1200,(+8.00%),"220,051",2.05B
+FTCH,Farfetch Limited (FTCH),5.88,+0.40,(+7.30%),"18,868,678",2.325B
+ESAIY,"Eisai Co., Ltd. (ESAIY)",20,+1.35,(+7.24%),"197,868",22.936B
+AKBTY,Akbank T.A.S. (AKBTY),1.65,+0.1100,(+7.14%),"28,770",4.29B
+MTCH,"Match Group, Inc. (MTCH)",41.59,+2.54,(+6.50%),"7,212,798",11.581B
+SCRYY,SCOR SE (SCRYY),2.65,+0.1550,(+6.21%),"17,968",4.737B
+NTCO,Natura &Co Holding S.A. (NTCO),6.55,+0.38,(+6.16%),"8,365,634",4.497B
+NWITY,Network International Holdings plc (NWITY),4.835,+0.2800,(+6.15%),"21,704",2.576B
+CTPCF,CITIC Limited (CTPCF),1.26,+0.0700,(+5.88%),"30,637",37.607B
+CIG,Companhia Energética de Minas Gerais (CIG),2.53,+0.1400,(+5.86%),"4,351,360",6.292B
+GME,GameStop Corp. (GME),22.68,+1.24,(+5.78%),"10,342,633",6.912B
+FNMFN,Federal National Mortgage Association (FNMFN),2.8,+0.1500,(+5.66%),"69,823",2.039B
