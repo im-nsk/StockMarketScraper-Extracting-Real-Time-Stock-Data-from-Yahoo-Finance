@@ -1,0 +1,26 @@
+stocks_Symbol,stocks_name,stocks_price,stocks_price_change,stocks_percent_change,stocks_volume,stocks_market_cap
+TSLA,"Tesla, Inc. (TSLA)",244.4,+9.54,(+4.06%),"198,959,478",774.626B
+NIO,NIO Inc. (NIO),7.73,-0.06,(-0.77%),"139,445,660",13.046B
+CVNA,Carvana Co. (CVNA),19.07,-5.16,(-21.30%),"99,071,487",3.387B
+PLTR,Palantir Technologies Inc. (PLTR),15.02,-0.17,(-1.12%),"93,398,776",32.385B
+SOFI,"SoFi Technologies, Inc. (SOFI)",8.18,+0.06,(+0.74%),"84,285,311",7.697B
+AMD,"Advanced Micro Devices, Inc. (AMD)",124.92,+3.87,(+3.20%),"74,996,783",201.166B
+F,Ford Motor Company (F),13.74,+0.16,(+1.18%),"69,555,571",54.971B
+CS,Credit Suisse Group AG (CS),0.8858,+0.0087,(+0.99%),"63,902,595",3.562B
+AMZN,"Amazon.com, Inc. (AMZN)",123.43,-0.82,(-0.66%),"51,144,103",1.275T
+AAPL,Apple Inc. (AAPL),180.96,+0.39,(+0.22%),"47,304,520",2.846T
+INTC,Intel Corporation (INTC),31.34,-0.48,(-1.51%),"40,061,675",130.719B
+NVDA,NVIDIA Corporation (NVDA),387.7,+2.60,(+0.68%),"42,494,209",957.619B
+PTON,"Peloton Interactive, Inc. (PTON)",8.31,+0.09,(+1.09%),"37,804,128",2.959B
+LCID,"Lucid Group, Inc. (LCID)",6.21,-0.07,(-1.11%),"35,683,569",13.442B
+CCL,Carnival Corporation & plc (CCL),13.09,+0.34,(+2.67%),"33,604,600",17.054B
+CHPT,"ChargePoint Holdings, Inc. (CHPT)",8.34,-1.27,(-13.22%),"33,583,367",3.345B
+BAC,Bank of America Corporation (BAC),29.27,+0.04,(+0.14%),"32,493,980",233.257B
+DOCU,"DocuSign, Inc. (DOCU)",57.02,-1.46,(-2.50%),"32,080,627",11.967B
+PBR,Petróleo Brasileiro S.A. - Petrobras (PBR),13.76,+0.61,(+4.64%),"31,028,868",89.744B
+DNA,"Ginkgo Bioworks Holdings, Inc. (DNA)",1.85,+0.0900,(+5.11%),"28,117,838",3.858B
+AI,"C3.ai, Inc. (AI)",36.99,+0.77,(+2.13%),"28,148,793",4.444B
+AFRM,"Affirm Holdings, Inc. (AFRM)",17.39,-1.46,(-7.75%),"27,815,506",5.142B
+NU,Nu Holdings Ltd. (NU),7.49,+0.22,(+3.03%),"27,468,722",33.474B
+SNAP,Snap Inc. (SNAP),10.09,+0.05,(+0.50%),"26,486,922",16.918B
+BBD,Banco Bradesco S.A. (BBD),3.47,+0.0800,(+2.36%),"25,933,533",36.872B
