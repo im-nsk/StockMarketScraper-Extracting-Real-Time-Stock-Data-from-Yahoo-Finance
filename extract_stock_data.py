@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # User agent
-HEADERS = ({'User-agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36', 'Accept-Language' : 'en-US, en; q=0.5'})
+HEADERS = ({'User-agent' : '*****KEEP YOUR USER AGENT*****', 'Accept-Language' : 'en-US, en; q=0.5'})
 
 #  Create all required list
 stocks_name = []
@@ -83,3 +83,4 @@ def get_the_stock_market_cap(stock_webpage_parsed):
     stock_detail = stock_webpage_parsed.find("td", class_ = "Ta(end) Fw(600) Lh(14px)", attrs = {"data-test": "MARKET_CAP-value"})
     result = stock_detail.text
     return result
+
